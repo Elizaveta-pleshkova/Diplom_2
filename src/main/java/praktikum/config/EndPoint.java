@@ -6,6 +6,5 @@ public class EndPoint {
     public static final String EDIT_USER_URL = "/api/auth/user";
 
     public static final String ORDER_URL = "/api/orders";
-    public static final String INGREDIENT_URL = "/api/ingredients";
 
 }

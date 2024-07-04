@@ -19,8 +19,6 @@ public class LoginUserTest {
     private String name;
     private final UserSteps userSteps = new UserSteps();
 
-    private String randomEmail;
-    private String randomPassword;
 
     @Before
     @Step("Подготовка к тестам. Описание BaseURI и создание тестовых данных.")
